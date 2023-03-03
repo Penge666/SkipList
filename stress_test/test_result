@@ -1,0 +1,6 @@
+TEST_COUNT : 1000000 NUM_THREADS: 1
+insert elapsed: 6.37592
+update elapsed: 8.86065
+get elapsed: 9.14877
+delete elapsed: 7.03448
+
